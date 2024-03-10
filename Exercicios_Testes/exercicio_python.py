@@ -48,3 +48,4 @@ valor_da_diaria =float(60.00)
 valor_do_km_percorrido = float(0.15)
 preco_a_pagar = (qtde_dias_alugado * valor_da_diaria) + (qtde_km_percorridos * valor_do_km_percorrido)
 print(f"O preço a pagar pelo aluguel do carro é R$ {preco_a_pagar:.2f} reais.")
+
